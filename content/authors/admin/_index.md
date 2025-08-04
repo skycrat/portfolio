@@ -183,4 +183,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Katia Celestino is an AI and data science professional with experience designing intelligent systems that automate processes and transform data into strategic insights. Her work bridges the fields of generative AI, natural language processing, and machine learning—developing chatbots powered by large language models, predictive models for classification, and data visualizations that drive business decisions. She has built and deployed solutions using tools like Python, SQL, Power BI, and Azure OpenAI, integrating REST APIs, RAG architectures, and prompt engineering techniques to optimize performance. Katia thrives in collaborative, agile environments and is passionate about applying AI responsibly to solve real-world challenges
