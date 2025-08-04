@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Katia Celestino
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ""
 
 # Full name (for SEO)
-first_name: Katia
-last_name: Celestino
+first_name: Katia Paulina
+last_name: Celestino Rijo
 
 # Status emoji
 status:
