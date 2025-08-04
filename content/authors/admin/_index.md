@@ -38,7 +38,7 @@ profiles:
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://www.linkedin.com/in/katia-celestino-/?locale=en_US
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: academicons/google-scholar
