@@ -38,9 +38,9 @@ profiles:
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/github
-    url: https://www.linkedin.com/in/katia-celestino-/?locale=en_US
+    url: https://github.com/skycrat
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/katia-celestino-/?locale=en_US
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
